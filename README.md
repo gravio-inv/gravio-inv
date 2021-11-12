@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Flutter/Dart Developer with over 6 years of experience in the software industry. 
+
+Full-Stack applications developer focussed on complete Mobile products.
+
 <!--
 **gravio-inv/gravio-inv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

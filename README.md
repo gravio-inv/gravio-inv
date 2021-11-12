@@ -10,9 +10,7 @@ Full-Stack applications developer focussed on complete Mobile products.
 
 🔗  [@gravio](http://t.me/gravio)
 
-# **👩🏻‍💻** I’m currently working
-
-## Main Flutter Developer (TeamLead)
+## **👩🏻‍💻** Main Flutter Developer (TeamLead)
 
 ТОО "Magnum Cash&Carry", Almaty, August 2021 - Present
 
